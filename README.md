@@ -3,9 +3,9 @@
   
 #### External links:
 
-:paperclip: [To the project](http://www.energy-telecom.portnov.com/qa/)
+:paperclip: <a href="http://www.energy-telecom.portnov.com/qa/" target="_blank">To the project</a>
 
-:orange_book: [Product Requirements](https://online.portnov.net/energy-telecom-reqs/)
+:orange_book: <a href="https://online.portnov.net/energy-telecom-reqs/" target="_blank">Product Requirements</a>
 
 ---
 
